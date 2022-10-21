@@ -4,8 +4,8 @@ I'm a beginner developer aiming to learn more languages such as C# and C++. All 
 ---
 
 ### ⌨️ Current Known Languages
-<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align = "left" alt = "Java" width = "30px" style = "padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 
 <br />
 
@@ -14,4 +14,5 @@ I'm a beginner developer aiming to learn more languages such as C# and C++. All 
 ### 📺 Videos to Show Current Mod Progress
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Qolour Switcher v1.2.0 Release!](https://www.youtube.com/watch?v=URPctAfO63M)]
 <!-- END YOUTUBE-CARDS -->
