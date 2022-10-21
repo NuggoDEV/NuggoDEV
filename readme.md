@@ -11,8 +11,9 @@ I'm a beginner developer aiming to learn more languages such as C# and C++. All 
 
 #
 
-### 📺 Videos to Show Current Mod Progress
+### Stats
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Qolour Switcher v1.2.0 Release!](https://www.youtube.com/watch?v=URPctAfO63M)]
-<!-- END YOUTUBE-CARDS -->
+![Nuggo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuggodev&show_icons=true&theme=gruvbox)
+
+#
+
