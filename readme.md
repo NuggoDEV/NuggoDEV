@@ -13,7 +13,7 @@ I'm a beginner developer aiming to learn more languages such as C# and C++. All 
 
 ### Stats
 
-![Nuggo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuggodev&show_icons=true&theme=gruvbox)
+![Nuggo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuggodev&show_icons=true&theme=dark)
 
 #
 
